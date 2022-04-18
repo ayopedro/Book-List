@@ -1,4 +1,4 @@
-This is a project to practice my Object Oriented Programming inn javascript using
+This is a project to practice my Object Oriented Programming in javascript using
 both ES5 and ES6.
 
 I was able to learn the differences between both ES5 and ES6 like prototypes and classes.
